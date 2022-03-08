@@ -1,14 +1,12 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
+# Plant Social
 
-# !!!Project Name!!!
-
-!!!Brief introduction to the project's vision!!!
+An app that will be able to identify plants and allow users to connect with fellow plant lovers.
 
 ## UX Team Members
 
-* **[Person A](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Juan Aguirre-Ayala](https://usabilityengineering.github.io/ux-portfolio-jaguirreayala/)** - Juan contributed with...
+* **[Jonathan Macoco](https://usabilityengineering.github.io/ux-portfolio-jtmacoco/)** - Jonathan contributed with...
+* **[Ethan Shelley](https://usabilityengineering.github.io/ux-portfolio-otto6x/)** - Ethan contributed with...
 
 # User-Centered Design Artifacts
  
