@@ -4,7 +4,7 @@ An app that will be able to identify plants and allow users to connect with fell
 
 ## UX Team Members
 
-* **[Juan Aguirre-Ayala](https://usabilityengineering.github.io/ux-portfolio-jaguirreayala/)** - Contributed by conducting interviews, assisting with questionnarie, and compiling information for Phase 1
+* **[Juan Aguirre-Ayala](https://usabilityengineering.github.io/ux-portfolio-jaguirreayala/)** - Contributed by conducting interviews, assisting with questionnarie, and compiling information
 * **[Jonathan Macoco](https://usabilityengineering.github.io/ux-portfolio-jtmacoco/)** - Contributed by conducting interviews, creating personas/scenarios, and creating questionnarie
 * **[Ethan Shelley](https://usabilityengineering.github.io/ux-portfolio-otto6x/)** - Contributed by writing executive summary, assisting with questionnaire, and organizing information
 
