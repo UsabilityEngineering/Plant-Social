@@ -43,8 +43,11 @@ Based on our 1-on-1 interviews, we see that there is a need for an "all-in-one" 
 ## Caveats
 It was harder than we expected to get responses to our survey. Due to our lack of demographic information for our questionnaire survey, we don't have clear information as to who answered our survey. Our assumed demographic for the questionnaire might not be what we were aiming for as we saw that 75% of respondents don't see themselves as a plant enthusiast, so there is a chance we might have to reformat the survey and try again with our aimed demographic of plant enthusiasts. 
 
+## Personas and Scenarios
+Please refer to **Supplementary Materials**
+
 ## Supplementary Materials
-[PDF of Personas and Secenarios](PersonasandScenarios.pdf)
+[PDF of Personas and Scenarios](PersonasandScenarios.pdf)
 
 [Questionnaire Survey Link](https://forms.gle/2aaMA4AoKdqQRcT67)
 
