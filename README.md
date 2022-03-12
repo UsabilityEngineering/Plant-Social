@@ -4,9 +4,9 @@ An app that will be able to identify plants and allow users to connect with fell
 
 ## UX Team Members
 
-* **[Juan Aguirre-Ayala](https://usabilityengineering.github.io/ux-portfolio-jaguirreayala/)** - Juan contributed with...
-* **[Jonathan Macoco](https://usabilityengineering.github.io/ux-portfolio-jtmacoco/)** - Jonathan contributed with...
-* **[Ethan Shelley](https://usabilityengineering.github.io/ux-portfolio-otto6x/)** - Ethan contributed with...
+* **[Juan Aguirre-Ayala](https://usabilityengineering.github.io/ux-portfolio-jaguirreayala/)** - Contributed by conducting interviews, assisting with questionnarie, and compiling information for Phase 1
+* **[Jonathan Macoco](https://usabilityengineering.github.io/ux-portfolio-jtmacoco/)** - Contributed by conducting interviews, creating personas/scenarios, and creating questionnarie
+* **[Ethan Shelley](https://usabilityengineering.github.io/ux-portfolio-otto6x/)** - Contributed by writing executive summary, assisting with questionnaire, and organizing information
 
 # User-Centered Design Artifacts
  
@@ -17,7 +17,7 @@ An app that will be able to identify plants and allow users to connect with fell
 
 # Phase 1: Requirements Gathering
 
-Executive Summary
+## Executive Summary
 
 The project's goal is to create an app to provide information to users about plants including information on how to care for a plant. 
 The app will also provide a platform for users to interact with other users about sharing information on plants and to provide a service 
@@ -55,7 +55,6 @@ From our requirements gathering, we have identified that:
 
 * Being provided information on how to take care of a plant would be the most important thing provided by a plant-based app as well as being given general information on plants.
 * Users interested in plants would be open to being able to interact with other users about plants.
-
 
 [Full phase 1 report](requirements/)
 
