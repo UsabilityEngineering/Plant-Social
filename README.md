@@ -11,8 +11,8 @@ An app that will be able to identify plants and allow users to connect with fell
 # User-Centered Design Artifacts
 
 * [Personas and Scenarios](requirements/PersonasandScenarios.pdf)
-* [Wireframes](https://xd.adobe.com/view/b8d4d931-97b2-4812-8e51-e18f12291b86-ed87/?fullscreen&hints=off)
-* [Prototype](#)
+* [Wireframes]()
+* [Prototype](https://xd.adobe.com/view/b8d4d931-97b2-4812-8e51-e18f12291b86-ed87/?fullscreen&hints=off)
 
 # Phase 1: Requirements Gathering
 
