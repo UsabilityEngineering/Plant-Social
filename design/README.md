@@ -25,8 +25,8 @@ When a user clicks on the search, they are provided with a grid of suggested pla
 A user will see a variation of this page whenever they interact with a plant post, whether it be via search, homepage, or a profile. Since our feedback indicated the user's need for plant information, this is where we wanted to **focus where they can get their information, and have it accessible via multiple means**. 
 
 <p float="left">
-  <img src="camera.png" width="600" />
-  <img src="upload.png" width="600" /> 
+  <img src="camera.png" height="600" />
+  <img src="upload.png" height="600" /> 
 </p>
 
 A user can go to the camera page (left image) and have the option of taking a photo right now or choosing from a photo from their gallery. From there, they can go on to upload the plant as a post for their profile since **user feedback indicated a strong need for plant portfolio creation**. The upload page (right image) has familiar aspects of post creation, with the photo, description, and plant type. 
