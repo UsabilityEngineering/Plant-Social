@@ -4,9 +4,9 @@ An app that will be able to identify plants and allow users to connect with fell
 
 ## UX Team Members
 
-* **[Juan Aguirre-Ayala](https://usabilityengineering.github.io/ux-portfolio-jaguirreayala/)** - Contributed by conducting interviews, assisting with questionnarie, and compiling information
-* **[Jonathan Macoco](https://usabilityengineering.github.io/ux-portfolio-jtmacoco/)** - Contributed by conducting interviews, creating personas/scenarios, and creating questionnarie
-* **[Ethan Shelley](https://usabilityengineering.github.io/ux-portfolio-otto6x/)** - Contributed by writing executive summary, assisting with questionnaire, and organizing information
+* **[Juan Aguirre-Ayala](https://usabilityengineering.github.io/ux-portfolio-jaguirreayala/)** - Contributed by conducting interviews, assisting with questionnarie, compiling information, refining wireframe prototype, writing Phase 2 report
+* **[Jonathan Macoco](https://usabilityengineering.github.io/ux-portfolio-jtmacoco/)** - Contributed by conducting interviews, creating personas/scenarios, creating questionnarie, creating wireframes, and expanding wireframe prototype
+* **[Ethan Shelley](https://usabilityengineering.github.io/ux-portfolio-otto6x/)** - Contributed by writing executive summary, assisting with questionnaire, organizing information, creating wireframes, and expanding wireframe prototype
 
 # User-Centered Design Artifacts
 
@@ -54,7 +54,10 @@ From our requirements gathering, we have identified that:
 
 ## Executive Summary
 
-
+* We used the feedback from our questionnaire and interviews to model our wireframes and prototype draft
+* Since feedback suggested users were interested in a social aspect with other plant users, we focused on implementing <ins>**common social media practices**</ins> in our wireframes
+* Further feedback from our peers via heuristic evaluations / cognitive walkthroughs helped the development of our wireframes / prototype draft
+* We enhanced the flow of the search functionality, with a better focus on the search bar placement for enhanced user experience
 
 [Full phase 2 report](design/)
 
