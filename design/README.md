@@ -1,12 +1,9 @@
 # Interaction Design
-
-<img src="login.png" height="600">
-
-The login page is what our user will first see. We wanted to keep it familiar to the user while being as basic as possible to provide the user with a quick and simple way into the app.
-
-<img src="register.png" height="600">
-
-When a user goes to register an account, they are greeted again with a familiar/simple screen.
+<p float="left">
+  <img src="login.png" height="600">
+  <img src="register.png" height="600">
+</p>
+The login page (left image) is what our user will first see. We wanted to keep it familiar to the user while being as basic as possible to provide the user with a quick and simple way into the app. When a user goes to register an account (right image), they are greeted again with a familiar/simple screen.
 
 <img src="home.png" height="600">
 
@@ -36,14 +33,14 @@ A user can go to the camera page (left image) and have the option of taking a ph
   <img src="chat.png" height="600" /> 
 </p>
 
-A user can view their messages with other users since we wanted to **focus on the social media aspect for the application.** From here, they can chat with another user.
+A user can view their messages (left image) with other users since we wanted to **focus on the social media aspect for the application.** From here, they can chat with another user (right image).
 
 <p float="left">
   <img src="profile.png" height="600">
   <img src="signout.png" height="600">
 </p>
 
-We designed the profile page to be similar to how other social medias present their profiles. We gave basic functions like clicking the three dots at the top to sign out, edit your profile from this page, and view all your posts. We wanted all the basic functionalities one would expect from a profile page, but we wanted the focus here to be that this is the "portfolio" of plants that user feedback expressed the need of.
+We designed the profile page (left image) to be similar to how other social medias present their profiles. We gave basic functions like clicking the three dots at the top to sign out (right image), edit your profile from this page, and view all your posts. We wanted all the basic functionalities one would expect from a profile page, but we wanted the focus here to be that this is the "portfolio" of plants that user feedback expressed the need of.
 
 <p float="left">
   <img src="otherprofile.png" height="600" />
@@ -51,8 +48,7 @@ We designed the profile page to be similar to how other social medias present th
   <img src="report.png" height="600" /> 
 </p>
 
-Another user's profile page will be similar to the user's own profile page, but with the obvious differences of adding, chatting, and option to block/report. Since a user might spend a lot of time looking through other user's profile, we wanted to ensure that the expected functionalities are here.
-
+Another user's profile page (left image) will be similar to the user's own profile page, but with the obvious differences of adding, chatting, and option to block/report (middle/right image). Since a user might spend a lot of time looking through other user's profile, we wanted to ensure that the expected functionalities are here.
 
 ## Supplementary Materials
 [Wireframes](Wireframe.pdf)
