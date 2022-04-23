@@ -57,7 +57,7 @@ From our requirements gathering, we have identified that:
 * We used the feedback from our questionnaire and interviews to model our wireframes and prototype draft
 * Since feedback suggested users were interested in a social aspect with other plant users, we focused on implementing <ins>**common social media practices**</ins> in our wireframes
 * Further feedback from our peers via heuristic evaluations / cognitive walkthroughs helped the development of our wireframes / prototype draft
-* We **enhanced the flow of the search functionality**, with a better focus on the search bar placement for enhanced user experience
+* We <ins>**enhanced the flow of the search functionality**</ins>, with a better focus on the search bar placement for enhanced user experience
 
 [Full phase 2 report](design/)
 
