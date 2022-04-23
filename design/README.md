@@ -15,7 +15,7 @@ With the sidebar menu, a user can modify what type of plant posts they will see 
 
 <img src="search.png" height="600">
 
-When a user clicks on the search, they are provided with a grid of suggested plants and a search bar at the top. The grid of plants might have the plant the user is searching for, and could the user time by cutting out the manual search. If a user performs a manual search, they can find the plant they searched for along with the plant's owner.
+When a user clicks on the search, they are provided with a grid of suggested plants and a search bar at the top. The grid of plants might have the plant the user is searching for, and could the user time by cutting out the manual search. If a user performs a manual search, they can find the plant they searched for along with the plant's owner. Originally, we had multiple search bars that confused our peers when they were giving us heuristic feedback, so we made the adjustment of the search icon at the bottom, and then having a search bar at the top.
 
 <img src="plantpage.png" height="600">
 
