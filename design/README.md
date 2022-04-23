@@ -48,7 +48,7 @@ We designed the profile page (left image) to be similar to how other social medi
   <img src="report.png" width="300" /> 
 </p>
 
-Another user's profile page (left image) will be similar to the user's own profile page, but with the obvious differences of adding, chatting, and option to block/report (middle/right image). Since a user might spend a lot of time looking through other user's profile, we wanted to ensure that the expected functionalities are here.
+Another user's profile page (first image) will be similar to the user's own profile page, but with the obvious differences of adding, chatting, and option to block/report (second/third image). Since a user might spend a lot of time looking through other user's profile, we wanted to ensure that the expected functionalities are here.
 
 ## Supplementary Materials
 [Wireframes](Wireframe.pdf)
