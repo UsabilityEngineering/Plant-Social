@@ -38,7 +38,7 @@ After every task, we asked our participants to give us a rating from 1-5, where 
 
 ## Approach to Study
 
-We opted for a **think-aloud** approach for our study so we could observe their thought processes and behaviors while navigating our app's interface. The approach allows us to get a more detailed examination of what exactly our users would be thinking while using the app. Our assessment would fall under summative as what we recorded would influence our changes to the final prototype. 
+We opted for a **think-aloud** approach for our study so we could observe their thought processes and behaviors while navigating our app's interface. The approach allows us to get a more detailed examination of what exactly our users would be thinking while using the app. Our assessment would fall under formative as we're identifying the user's behaviors with our app so we can make the appropriate changes in our final prototype.
 
 ## Interpretation of Data Summary
 
