@@ -4,8 +4,8 @@ An app that will be able to identify plants and allow users to connect with fell
 
 ## UX Team Members
 
-* **[Juan Aguirre-Ayala](https://usabilityengineering.github.io/ux-portfolio-jaguirreayala/)** - Contributed by conducting interviews, assisting with questionnarie, compiling information, refining wireframe prototype, writing Phase 2 report
-* **[Jonathan Macoco](https://usabilityengineering.github.io/ux-portfolio-jtmacoco/)** - Contributed by conducting interviews, creating personas/scenarios, creating questionnarie, creating wireframes, and expanding wireframe prototype
+* **[Juan Aguirre-Ayala](https://usabilityengineering.github.io/ux-portfolio-jaguirreayala/)** - Contributed by conducting interviews, assisting with questionnarie, compiling information, refining wireframe prototype, writing Phase 2 report, and writing Phase 3 report
+* **[Jonathan Macoco](https://usabilityengineering.github.io/ux-portfolio-jtmacoco/)** - Contributed by conducting interviews, creating personas/scenarios, creating questionnarie, creating wireframes, expanding wireframe prototype, and completing the final click-through prototype
 * **[Ethan Shelley](https://usabilityengineering.github.io/ux-portfolio-otto6x/)** - Contributed by writing executive summary, assisting with questionnaire, organizing information, creating wireframes, and expanding wireframe prototype
 
 # User-Centered Design Artifacts
@@ -65,6 +65,16 @@ From our requirements gathering, we have identified that:
 
 ## Executive Summary
 
-**Coming soon!**
+* Partiticpants (n=5) were given a click-through prototype and given 4 tasks to complete.
+* <ins>**2 tasks had a completion rating of 100%**</ins>, while one had 80% and another 60%.
+* Through the use of <ins>**heuristic evaluation and cognitive walkthrough**</ins>, we were able to <ins>**identify an underlying issue**</ins> with the search layout.
+* Through the usability test, we were able to note:
+  * Users <ins>**found it easy**</ins> to make posts and message users due to conventions set by other social media apps
+  * Users found searching for plant info confusing due to vagueness between search and camera feature
+  * Users struggled to use the camera for plant identification since there was a lack of indication
+* Using our data, we determined the following changes to be made:
+  * Create more distinction that you can identify a plant through the camera
+  * Add a camera icon to the search bar
+  * Re-work the initial search page so there isn't confusion
 
 [Full phase 3 report](evaluation/)
