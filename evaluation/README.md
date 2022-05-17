@@ -60,6 +60,6 @@ Another change would be to revise how we display plant posts on the feed. Instea
 
 [Protocol](plant-social-protocol.pdf)
 
-[Prototype](#)
+[Prototype](https://xd.adobe.com/view/574798db-a079-415c-9672-5a170bda2169-0214/?fullscreen&hints=off)
 
 [Data Spreadsheet](plant-social-data.pdf)
