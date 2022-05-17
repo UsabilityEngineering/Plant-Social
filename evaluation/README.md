@@ -2,22 +2,52 @@
 
 ## Summary of Formative Feedback/Findings
 
-We asked our participants (n=5) to complete a total of 4 tasks relating to retreiving info on plants, post creation, and messaging. We asked our participants to think aloud so we could observe their thought processes and behaviours while navigating our app's interface.
-
 From our heuristic evaluation, we found that the UI of our app had **consistency**, **freedom**, and **flexibility**. We noted that the general layout of our interface is solid and it was understandable to the user due to conventions placed by other social-type apps. From the critiques, we noted that there was a discrepancy in how our top search bar would take you somewhere different than the bottom search button and our general app **aesthetic** was clunky. These notes helped us in our revision of our prototype.
 
 From our cognitive walkthrough, a participant took on the role of **Kayla** from the scenarios that we provided. As Kayla, the confusing flow of our search feature became more prominent, as the participant was confused on the layout of the search buttons and where they took you. This solidified our need to re-work how we did our search. 
 
-## Link to Protocol Used
+Based on the feedback, we made a re-work of the search feature in preparation of our next step. 
 
-[Protocol](plant-social-protocol.pdf)
-
-## Link to Final Interactive Prototype
-
-[Prototype](#)
-
-## Tasks
+## Protocol Tasks
 
 ### Task 1
 
-We asked participants to assume the role of someone who just got a plant, but they don't know the name of it. Their task was to use the app to search for information on the unknown plant. This task would show us the difficulty of searching for a plant with no name. Our expected goal for the user would be to end up using the camera feature to identify the plant.
+We asked participants to assume the role of someone who just got a plant, but they don't know the name of it. Their task was to use the app to search for information on the unknown plant. Our expected goal for the user would be to end up using the camera feature to identify the plant.
+
+This task would show us the **learnability** of searching for a plant with no name. By not knowing the name, we'd hope to see them navigate to the camera feature.
+
+### Task 2
+
+Participants were given the scenario of having a unique plant that they wanted to share with others. Their task was to share this unique plant through the app. Our expected goal for the user would be to make a post by navigating through the camera, selecting/uploading a photo, and hitting "post".
+
+We wanted to measure the **effectiveness** for this task and view the **error tolerance** to see how they navigate the menus to make a post.
+
+### Task 3
+
+Participants were told that they just saw someone's plant through the app and they had an interest in obtaining it. The task would involve them completing their goal of obtaining it. Our expected goal is for the user to interact with a post, click a user's profile, and hit message to start up a chat with them.
+
+We were mainly looking to see how **learnability** in home screen navigation and **error tolerance** when trying to find an interactable post.
+
+### Task 4
+
+For the final task, participants were given the scenario that they just had bought a new plant and want to find out more information on how to take care of it. This task is similar to the first one, except there is an unspoken assumption that the participant would know the plant name. Our expected goal for the user would be to use the search feature to obtain information on the plant.
+
+We wanted to again measure the **learnability** and **effectiveness** for users interacting with the search feature.
+
+After every task, we asked our participants to give us a rating from 1-5, where 1 is "Very Difficult" and 5 is "Very Easy", on how they found the task. This was so we could measure the overall **usefulness** and **satisfcation** our participants perceived for the tasks.
+
+## Approach to Study
+
+We opted for a **think-aloud** approach for our study so we could observe their thought processes and behaviours while navigating our app's interface. The approach allows us to get a more detailed examination of what exactly our users would be thinking while using the app.
+
+## Interpretation of Data Summary
+
+
+
+## Supplementary Materials
+
+[Protocol](plant-social-protocol.pdf)
+
+[Prototype](#)
+
+[Data Spreadsheet](#)
